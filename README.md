@@ -1,6 +1,6 @@
 
 
-## **FISI**
+## **Para proyectos en la FISI**
 
 Este repositorio almacena una gran cantidad de pruebas como
 practicas calificadas, exámenes parciales, exámenes finales, guías de practica, los cuales han sido recopilados de diferentes planes de estudio como el 2009, 2015, 2018 y posteriores con el fin de que sirva a las futuras generaciones de la FISI para que obtengan un mejor desempeño académico o por amor al conocimiento deseen medir sus habilidades con una gran diversidad de pruebas.
